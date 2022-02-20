@@ -1,0 +1,2 @@
+proxies:
+  - {name: AMD, server: 127.0.0.1, port: 11080, type: socks5}
